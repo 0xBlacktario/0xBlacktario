@@ -8,8 +8,8 @@
    
 #
 ```diff
-✔ -> 2nd account
-✔ -> contact me on discord at blacktario#0001
+✔ -> Main account
+✔ -> contact me on discord at 0xBlacktario or Blacktario
 ```
 
 ### <p align="center">👓&nbsp; Visiters number </p>
