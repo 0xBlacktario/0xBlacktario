@@ -1,7 +1,10 @@
 <h1 align="center">Blacktario</h1>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1169411031756451921)](https://discord.com/users/1169411031756451921)
-
+<div align="center">
+  <a href="https://discord.com/users/1169411031756451921">
+    <img src="https://lanyard.cnrad.dev/api/1169411031756451921" alt="Discord Presence">
+  </a>
+</div>
    
 #
 ```diff
