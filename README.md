@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Blacktario</h1>
 
-<!--
-**0xBlacktario/0xBlacktario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Discord Presence](https://lanyard.cnrad.dev/api/1169582228385308672)](https://discord.com/users/1169582228385308672)
 
-Here are some ideas to get you started:
+   
+#
+```diff
+✔ -> 2nd account
+✔ -> contact me on discord at blacktario#0001
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <p align="center">👓&nbsp; Visiters number </p>
+<br>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/0xBlacktario/count.svg" />
+</p>
+
+
