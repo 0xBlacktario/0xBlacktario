@@ -1,6 +1,6 @@
 <h1 align="center">Blacktario</h1>
 
-[[![Discord Presence](https://lanyard.cnrad.dev/api/1169582228385308672)](https://discord.com/users/1169582228385308672)](https://api.lanyard.rest/v1/users/1169411031756451921)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1169582228385308672)](https://discord.com/users/1169582228385308672)
 
    
 #
